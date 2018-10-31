@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/DocParse",
+    "name": "at_server/docparse",
     "description": "DocParse",
     "license": "MIT",
     "type": "library",
